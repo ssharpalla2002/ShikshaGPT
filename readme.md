@@ -3,8 +3,6 @@
 # Introduction
 Welcome to the documentation of the customized chat bot developed for science-related questions aka the science bot. This document outlines the journey and key components of the project, from requirements to implementation. The outcome of this project developed is to handle scientific questions intelligibly by a bot and provide the best possible answer to it.
 
-There are 2 setups in this project that includes a backend setup and a frotend setup. 
-
 # How to run?
 **Download and install all the dependencies –**
 
@@ -175,12 +173,6 @@ Code snippet –
 
 # Usage
 The application can be initiated locally using the provided start.sh script or within a Docker container using the Dockerfile.
-
-# Future Scope 
-As I developed this model in the span of one week. I would not dare say that it is perfect as still there are multiple changes and upgrades that can be implemented. The speed of response generation is a factor. Then we can work upon the efficiency of the answers as couple of times I have received incorrect or out of context answers for some question which required multiple runs.
-
-# Conclusion
-The customized chat bot successfully addresses the test requirements, providing a comprehensive solution for science-related questions. The project demonstrates effective use of the Openfabric PySDK, integrates a custom model, handles errors, and manages state and output storage efficiently.
 
 # Important links:
 Docs of openfabric_pysdk - https://docs.openfabric.ai/developer-tools/index/
