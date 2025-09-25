@@ -171,13 +171,15 @@ Code snippet –
 ![image](https://github.com/prajwalnayak17/Shiksha_GPT/assets/87718913/fd68b6b3-a036-4dcc-a24b-42c49ab64a3c)
 
 
-# Usage
-The application can be initiated locally using the provided start.sh script or within a Docker container using the Dockerfile.
+
 
 # Important links:
 Docs of openfabric_pysdk - https://docs.openfabric.ai/developer-tools/index/
+
 Langchain docs - https://python.langchain.com/docs/get_started/introduction
+
 Chainlit docs – 
 https://github.com/Chainlit/chainlit
+
 Ctransformers docs – 
 https://github.com/marella/ctransformers
