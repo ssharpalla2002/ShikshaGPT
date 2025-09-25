@@ -16,9 +16,6 @@ There are 2 setups in this project that includes a backend setup and a frotend s
 
 •	To run the UI interface built with the help of Chainlit go to ur environment terminal and type - "chainlit run test,py -w". (Frontend setup - users can access the bot through this instruction)
 
-# Video Link
-https://drive.google.com/file/d/1t1LANxfBsGpJ9Akjfkvk12JnSDgvWatb/view?usp=sharing 
-
 # Directory Structure
 The project structure is organized as follows:
 
@@ -192,9 +189,3 @@ Chainlit docs –
 https://github.com/Chainlit/chainlit
 Ctransformers docs – 
 https://github.com/marella/ctransformers
-
-# Contact:
-Feel free to reach out if you have any questions or need further clarification.
-Email: prajwalnayak2000@gmail.com 
-Phone No.: +91 8277797297
-End of Documentation
